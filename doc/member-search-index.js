@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"studio5.tests","c":"ArrayMeanComprehensiveTest","l":"ArrayMeanComprehensiveTest(List<Integer>, double)","u":"%3Cinit%3E(java.util.List,double)"},{"p":"studio5.tests","c":"ArrayMeanComprehensiveTest","l":"getConstructorArguments()"},{"p":"studio5.tests","c":"ArrayMeanComprehensiveTest","l":"test()"}];updateSearchResults();
